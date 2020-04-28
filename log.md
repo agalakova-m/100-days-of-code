@@ -11,3 +11,9 @@
 **Today's Progress**: Continuing React + Redux course. Repeated propTypes and started to learn React hooks (better late than never!). Looked through new syntax and learned features of useState().
 
 **Thoughts:** Didn't start doing freecodecapm courses, so what. Going to bed full of hooks!
+
+### Day 2: April 28, 2020
+
+**Today's Progress**: Continuing React + Redux course. Practiced with useContext() a little and had heart-to-heart talk with my teamlead. <3
+
+**Thoughts:** Didn't do much, but it's still better than nothing!
